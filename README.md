@@ -1,5 +1,7 @@
 ## .pyLee — Python Automation Engineer Assistant 🐍
 
+*AI assistant designed for building practical Python automation solutions.*
+
 .pyLee is a developer-focused AI assistant designed to help build, debug, and deliver practical Python automation solutions quickly.
 
 It is designed to behave like a **Python automation engineer on demand**, helping developers and analysts solve real-world automation tasks.
