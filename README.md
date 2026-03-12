@@ -1,184 +1,103 @@
-# .pyLee — Python Automation Engineering Assistant 🐍
+## .pyLee — Python Automation Engineer Assistant 🐍
 
-**.pyLee** is a developer-focused AI assistant built to help create **Python automation solutions quickly, correctly, and practically**.
+.pyLee is a developer-focused AI assistant designed to help build, debug, and deliver practical Python automation solutions quickly.
 
-It is designed like a **senior Python automation engineer on demand** for building automation scripts, cleaning data, generating reports, scraping websites, integrating APIs, and solving real engineering tasks.
-
----
-
-## Overview
-
-.pyLee is focused on practical automation work, especially for workflows that involve:
-
-- repetitive business tasks
-- messy files and datasets
-- Excel / CSV / JSON processing
-- web scraping and data collection
-- report generation
-- debugging and script building
-
-The goal is simple:
-
-> deliver usable Python automation solutions, not just theory.
+It is designed to behave like a **Python automation engineer on demand**, helping developers and analysts solve real-world automation tasks.
 
 ---
 
 ## Core Capabilities
 
-### ⚙️ Automation Engineering
+### Data Processing & Cleaning
+- Clean and transform CSV, Excel, JSON, and log data
+- Standardize messy datasets
+- Data validation and restructuring
+- Data analysis and summary generation
 
-Build scripts for repetitive system and workflow tasks.
+### Automation Engineering
+- File system automation
+- Scheduled scripts and background jobs
+- Monitoring bots and alert systems
+- Workflow automation
 
-Examples:
+### Web Scraping & Data Collection
+- Scraping with `requests` and `BeautifulSoup`
+- Browser automation with `Selenium`
+- Structured data extraction
+- Automated data collection pipelines
 
-- File organization and renaming
-- Moving files automatically
-- Scheduled scripts
-- Monitoring bots
-- Log processing
-- System automation
+### API Integrations
+- Build scripts that interact with APIs
+- Collect and process API data
+- Automate data synchronization tasks
 
----
+### Document & Report Automation
+- Excel automation using `pandas` and `openpyxl`
+- Automated report generation
+- PDF extraction and PDF generation
+- Email automation and scheduled reports
 
-### 📊 Data Work
+### Data Pipelines & ETL
+- Build quick ETL workflows
+- Convert large datasets into structured formats
+- Automate repetitive data transformation tasks
 
-Clean, transform, validate, and process structured data.
-
-Examples:
-
-- CSV cleaning
-- Excel cleaning
-- JSON and XML transformation
-- Data restructuring
-- Data validation
-- Automated summaries and reporting
-
-Common tools:
-
-- `pandas`
-- `openpyxl`
-- `json`
-- `csv`
-
----
-
-### 🌐 Web & API Automation
-
-Create pipelines for collecting and processing data.
-
-Examples:
-
-- Web scraping with requests / BeautifulSoup
-- Browser automation with Selenium
-- API integrations
-- Data collection pipelines
-- Scheduled web checks
-
-Common tools:
-
-- `requests`
-- `BeautifulSoup`
-- `Selenium`
+### AI Agents & Automation Workflows
+- Assist with building automation-focused AI agents
+- Design automation pipelines
+- Connect scripts into larger automation systems
 
 ---
 
-### 📄 Document Automation
+## Engineering Approach
 
-Automate document-heavy workflows.
+When solving tasks, `.pyLee` typically:
 
-Examples:
-
-- Excel report generation
-- PDF extraction
-- PDF generation
-- Email attachments and reporting workflows
-
-Common tools:
-
-- `openpyxl`
-- `pandas`
-- `PyPDF`
-- `fpdf`
-- `smtplib`
-
----
-
-### 🧰 Engineering Tasks
-
-Support practical development work.
-
-Examples:
-
-- Debugging Python scripts
-- Building ETL pipelines
-- Restructuring raw data
-- Writing ready-to-run scripts
-- Adding validation and error handling
-
----
-
-## What .pyLee Typically Provides
-
-When given a technical task, `.pyLee` usually responds with:
-
-- Working Python code
-- Minimal explanation
-- Clear run instructions
-- Error handling
-- Practical shortcuts
-- Output-focused solutions
+- Thinks like a **Python automation engineer**
+- Produces **clean, runnable Python scripts**
+- Prefers **simple and maintainable solutions**
+- Uses reliable libraries such as:
+  - `pandas`
+  - `requests`
+  - `openpyxl`
+  - `BeautifulSoup`
+  - `reportlab`
+- Includes **error handling, logging, and validation**
 
 ---
 
 ## Example Requests
 
-Examples of things `.pyLee` can help with:
+Examples of tasks `.pyLee` can help solve:
 
-- “Clean this messy CSV and export to Excel”
-- “Merge 200 Excel files automatically”
-- “Scrape product data from a website”
-- “Extract tables from a PDF”
-- “Build a bot that checks a website every 10 minutes”
-- “Convert logs into a structured dataset”
-- “Generate an automated business report”
-
----
-
-## Intended Users
-
-This assistant is useful for:
-
-- Python automation developers
-- Data analysts
-- Freelancers working with messy client files
-- Engineers building internal tools
-- Small businesses that need automation support
+- Write a Python script to clean a messy Excel dataset
+- Scrape product data from a website
+- Automate sending daily email reports
+- Extract tables from PDFs and export them to Excel
+- Monitor a website and notify when content changes
+- Merge thousands of CSV files into a single dataset
+- Build an API automation script
 
 ---
 
-## Project Purpose
+## Purpose of This Project
 
-This project represents a practical AI assistant concept built around **Python automation engineering**.
+This repository demonstrates a **developer-focused AI assistant concept built around Python automation engineering**.
 
-It reflects the kind of automation workflows used in real tasks such as:
+It represents the type of automation workflows commonly used in real projects involving:
 
 - data cleaning
-- report automation
+- report generation
+- web scraping
 - document processing
-- scraping
-- engineering scripting
+- automation scripting
 
 ---
 
 ## Author
 
 **Sayeduzzaman**  
-Applied Physics & Electronics student building practical tools in automation, data workflows, and AI systems.
+Automation developer focused on Python data workflows and automation tools.
 
-GitHub: [sayeduzzaman-bracu](https://github.com/sayeduzzaman-bracu)
-
----
-
-## License
-
-This project is licensed under the MIT License.
+GitHub:  
+https://github.com/sayeduzzaman-bracu
