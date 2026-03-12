@@ -6,7 +6,7 @@
 
 It is designed to behave like a **Python automation engineer on demand**, helping developers and analysts solve real-world automation tasks.
 
-## Project link: https://chatgpt.com/g/g-69b25ed3ada48191a28fd6c6563555b5-pylee
+**Project link:** https://chatgpt.com/g/g-69b25ed3ada48191a28fd6c6563555b5-pylee
 
 ---
 
